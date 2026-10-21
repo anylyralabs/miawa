@@ -117,6 +117,10 @@ export const globalConfig = {
     axolotl: {
       displayName: 'Axolotl Launcher',
       logoUrl: new URL('../assets/images/axolotl.png', import.meta.url).href
+    },
+    ZexBrowse: {
+      displayName: 'ZexBrowse',
+      logoUrl: new URL('../assets/images/zexbrowse.png', import.meta.url).href
     }
   },
 
