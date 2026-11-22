@@ -118,9 +118,9 @@ export const globalConfig = {
       displayName: 'Axolotl Launcher',
       logoUrl: new URL('../assets/images/axolotl.png', import.meta.url).href
     },
-    ZexBrowse: {
-      displayName: 'ZexBrowse',
-      logoUrl: new URL('../assets/images/zexbrowse.png', import.meta.url).href
+    Zevi: {
+      displayName: 'Zevi',
+      logoUrl: new URL('../assets/images/zevi.png', import.meta.url).href
     },
     ZPCL: {
       displayName: 'ZPCL Launcher',
