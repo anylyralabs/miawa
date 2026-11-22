@@ -121,6 +121,10 @@ export const globalConfig = {
     ZexBrowse: {
       displayName: 'ZexBrowse',
       logoUrl: new URL('../assets/images/zexbrowse.png', import.meta.url).href
+    },
+    ZPCL: {
+      displayName: 'ZPCL Launcher',
+      logoUrl: new URL('../assets/images/zpcl.png', import.meta.url).href
     }
   },
 

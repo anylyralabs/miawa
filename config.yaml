@@ -95,3 +95,8 @@ launchers:
     mode: release
     include_prerelease: false
     max_versions: 1
+  - name: ZPCL
+    source_url: https://github.com/zuanxu53-hub/ZPCL-Launcher
+    mode: release
+    include_prerelease: false
+    max_versions: 0
